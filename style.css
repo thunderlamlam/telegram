@@ -1,0 +1,62 @@
+
+body {
+	font-family: "Open Sans";
+	background-color:#008CB8;
+}
+
+
+
+.login-box {
+	position:absolute;
+	background: white;
+	height: 400px;
+	width: 1000px;
+	top: 15%;
+	left: 15%
+
+}
+
+.Get-going {
+	position: relative;
+	background:white;
+	height: 20px;
+	width: 200px;
+	font-style: bold;
+	font-size: 22px;
+	color: #000000;
+	left: 10%;
+}
+
+.Enter-username-password {
+	position: relative;
+	background:white;
+	height: 20px;
+	width: 250px;
+	font-style: bold;
+	font-size: 13px;
+	color: #000000;
+	left: 10%;
+	border-bottom: solid #EEEEEE;
+}
+
+.Recover-password {
+	position: relative;
+	background:white;
+	height: 20px;
+	width: 200px;
+	font-size: 13px;
+	color: #0084B2;
+	left: 10%;
+}
+
+.leftbox {
+	height: 300px;
+	width: 500px;
+    position: relative;
+    border-left: solid #EEEEEE;
+    left: 50%;
+}
+
+.rightbox {
+    position: relative;
+}
