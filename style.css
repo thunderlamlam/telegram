@@ -25,7 +25,7 @@ body {
 	font-size: 22px;
 	color: #000000;
 	left: 10%;
-	top: 25%;
+	top: 30%;
 }
 
 .Enter-username-password {
@@ -36,7 +36,7 @@ body {
 	font-size: 13px;
 	color: #000000;
 	left: 10%;
-	top: 25%;
+	top: 40%;
 	border-bottom: 1px solid #EEEEEE;
 }
 
@@ -44,11 +44,35 @@ body {
 	position: relative;
 	background:white;
 	height: 20px;
-	width: 300px;
+	width: 200px;
+	font-size: 13px;
+	color: #000000;
+	left: 35%;
+	top: 40%;
+}
+
+.sign-up {
+	position: relative;
+	background:white;
+	height: 20px;
+	width: 200px;
 	font-size: 13px;
 	color: #0084B2;
+	left: 30%;
+	top: 45%;
+}
+
+.Login-button {
+	position: relative;
+	background:white;
+	height: 22px;
+	width: 50px;
+	font-size: 13px;
+	color: #0084B2;
+	font-weight: bold;
 	left: 10%;
-	top: 35%;
+	top: 48%;
+	border: 1px solid #0084B2;
 }
 
 .leftbox {
@@ -67,6 +91,6 @@ body {
 	width: 200px;
 	font-size: 13px;
 	color: #0084B2;
-	left: 10%;
+	left: 12%;
 	top: 40%;
 }
